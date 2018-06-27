@@ -72,8 +72,6 @@ class ShoppingCart {
     }
 
     // This is Braintree/Paypal's create method, mostly included as proof-of-concept
-    // Checkout/payment processing would require capture of user identity, address, security
-    // and a bunch of other things
     void checkout() {
 //        PaymentMethodRequest request = new PaymentMethodRequest()
 //                .customerId("131866")

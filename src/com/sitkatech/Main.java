@@ -25,7 +25,6 @@ public class Main {
             System.out.println("9 - Checkout");
             System.out.println("0 - Quit Shopping");
 
-
             // Don't forget to control for non-numeric input
             int choice = scanner.nextInt();
 
