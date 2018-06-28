@@ -1,4 +1,4 @@
-package com.sitkatech;
+package com.clientdemo;
 
 class GroceryProduct {
     private String name;

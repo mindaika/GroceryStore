@@ -1,4 +1,4 @@
-package com.sitkatech;
+package com.clientdemo;
 
 import java.util.Scanner;
 

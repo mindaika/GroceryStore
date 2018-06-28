@@ -1,4 +1,3 @@
-
 # The Grocery Store
 ## Non-Functional Requirements:  
 1. Console or terminal application in a language of your choosing.    
